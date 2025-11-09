@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 // Embedded vocabulary data - sample words for each theme/difficulty
 const VOCAB_DATA = {
